@@ -65,6 +65,8 @@ img {
 #press img:hover { 
     border: 5px rgb(152,173,166) solid;
 }
+
+a {color: #1783bb}
 /*a:-webkit-any-link {*/
 /*    color: -webkit-link;*/
 /*    cursor: pointer;*/
