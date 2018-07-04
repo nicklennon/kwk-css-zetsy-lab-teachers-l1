@@ -61,8 +61,8 @@ a:hover {
     cursor: pointer;
     border-color: blue;
 }
-/*a:-webkit-any-link {*/
-/*    color: -webkit-link;*/
-/*    cursor: pointer;*/
-/*    text-decoration: underline;*/
-/*}*/
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
