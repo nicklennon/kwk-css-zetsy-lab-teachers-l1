@@ -46,7 +46,14 @@ p  {
 	font-size: 0.8em;
 }
 
+/*ID tag for footer copyright*/
 #footer {
 	text-align: right;
 	background: #fff;
+}
+
+/*Children of Press with image tags*/
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
 }
