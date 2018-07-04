@@ -57,7 +57,7 @@ p  {
     border: 5px #ccc solid;
     padding: 1px;
 }
-a:hover { 
+img:hover { 
     border: 5px #000 solid;
 }
 /*a:-webkit-any-link {*/
