@@ -58,7 +58,7 @@ p  {
     padding: 1px;
 }
 a:hover { 
-    background-color: yellow;
+    text-decoration: underline;
 }
 /*a:-webkit-any-link {*/
 /*    color: -webkit-link;*/
