@@ -53,7 +53,7 @@ p  {
 }
 
 /*press-img class*/
-.press-img {
+#press img {
     border: 5px #ccc solid;
     padding: 1px;
 }
