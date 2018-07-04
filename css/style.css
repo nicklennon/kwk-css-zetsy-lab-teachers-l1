@@ -52,8 +52,14 @@ p  {
 	background: #fff;
 }
 
-/*Children of Press with image tags*/
+/*press-img class*/
 .press-img {
     border: 5px #ccc solid;
     padding: 1px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
 }
