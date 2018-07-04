@@ -52,8 +52,13 @@ p  {
 	background: #fff;
 }
 
-/*image children of press*/
 img {
+  border: 5px rgb(152,173,166) solid;
+  padding: 1px;
+}
+
+/*image children of press*/
+#press img {
     border: 5px #ccc solid;
     padding: 1px;
 }
