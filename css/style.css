@@ -58,11 +58,10 @@ p  {
     padding: 1px;
 }
 a:hover { 
-    cursor: pointer;
-    border-color: blue;
+    border: 5px #000 solid;
 }
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-}
+/*a:-webkit-any-link {*/
+/*    color: -webkit-link;*/
+/*    cursor: pointer;*/
+/*    text-decoration: underline;*/
+/*}*/
